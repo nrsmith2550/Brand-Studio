@@ -1,0 +1,18 @@
+{
+  "name": "Northbound Threads",
+  "handle": "@northboundthreads",
+  "one_liner": "Trail-ready everyday wear for people who'd rather be outside.",
+  "products": "Heavyweight tees, fleece pullovers, trail shorts, beanies",
+  "price_point": "Mid ($30-$110)",
+  "audience": "22-40, weekend hikers and climbers, value durability and sustainability",
+  "voice": "Warm, outdoorsy, a bit funny. Short sentences. Invite people outside.",
+  "words_to_avoid": "cheap, fast fashion, guys",
+  "values": "Made to last, recycled fabrics, 1% of sales to trail maintenance",
+  "competitors": "Patagonia, Topo Designs, Parks Project",
+  "platforms": ["Instagram", "TikTok", "Pinterest"],
+  "core_hashtags": "#northboundthreads #getoutside #trailstyle",
+  "colors": {"primary": "#1F3B2D", "secondary": "#F3EFE6", "accent": "#E07A2E"},
+  "visual_style": "Golden-hour landscapes, candid hikers mid-trail, earthy tones with one pop of orange, 35mm film grain",
+  "font_path": "",
+  "logo_path": ""
+}

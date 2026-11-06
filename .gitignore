@@ -1,0 +1,15 @@
+# Your private data and big local files stay on each computer
+.venv/
+__pycache__/
+*.pyc
+brand.json
+settings.json
+studio.db
+logo.*
+outputs/*
+!outputs/.keep
+.DS_Store
+my_data/
+research_cache.json
+logs/
+.pytest_cache/

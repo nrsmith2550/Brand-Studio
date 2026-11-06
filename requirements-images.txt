@@ -1,0 +1,8 @@
+# Image generation (install AFTER torch — see README for the right torch command for your GPU)
+# On macOS 14, PyTorch must be <2.15 (2.15+ needs macOS 15); the Mac setup script handles this.
+diffusers>=0.32
+transformers>=4.44
+accelerate>=0.33
+safetensors>=0.4
+sentencepiece>=0.2
+protobuf>=4.25
